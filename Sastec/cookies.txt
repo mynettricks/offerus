@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.leptitox.com	TRUE	/	FALSE	1999999999	__cfduid	d7511e0bbdd1f37056f01a5a5cd8d4c811585536259
+science.leptitox.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
