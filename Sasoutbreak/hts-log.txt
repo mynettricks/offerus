@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Apr 2020 19:48:13 at https://affiliaya.itproffer.design/superaffoutbreak/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://affiliaya.itproffer.design/superaffoutbreak/ -O1 "F:\Website Code Copy\Sasoutbreak" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:49:33	Error: 	"Not Found" (404) at link https://affiliaya.itproffer.design/superaffoutbreak/"https://affiliaya.github.io/offerus/wp-content/plugins/thrive-visual-editor/editor/css/images/resp-video-preview/video-preview-placeholder.jpg" (from https://affiliaya.itproffer.design/superaffoutbreak/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 20 seconds : 205 links scanned, 203 files written (2291115 bytes overall) [1576642 bytes received at 19708 bytes/sec], 1085121 bytes transferred using HTTP compression in 21 files, ratio 20%, 18.3 requests per connection
+(1 errors, 0 warnings, 0 messages)
